@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 making changes in master
+=======
+hello
+
+This id demo file 
+I have created
+>>>>>>> feature
